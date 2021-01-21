@@ -6,6 +6,10 @@ This is a starter [Snowpack](https://snowpack.dev) template with [Svelte.js](htt
 
 ![Screenshot](sst-screenshot.png)
 
+## Clone template
+
+In an empty folder run `npx degit adwinmbd/snowpack-template-svelte#main`
+
 ## Available Scripts
 
 ### npm start
