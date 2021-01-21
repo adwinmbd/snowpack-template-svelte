@@ -26,7 +26,7 @@
         href="https://svelte.dev"
         target="_blank"
         rel="noopener noreferrer"> Learn Svelte </a>
-      {" | "}
+      {' | '}
       <a
         class="App-link"
         href="https://snowpack.dev"
@@ -38,6 +38,19 @@
 
 <style>
   /* css will go here */
+  .App {
+    text-align: center;
+  }
+
+  .App code {
+    background: #0002;
+    padding: 4px 8px;
+    border-radius: 4px;
+  }
+  .App p {
+    margin: 0.4rem;
+  }
+
   .App-header {
     background-color: #f9f6f6;
     color: #333;
